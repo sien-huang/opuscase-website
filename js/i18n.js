@@ -91,7 +91,7 @@ const I18N = {
       company: "公司：深圳市柯彩实业有限公司",
       person: "联系人：黄科才",
       phoneLabel: "电话：+86 13926855116",
-      emailLabel: "邮箱：562718308@qq.com",
+      emailLabel: "邮箱：atf520@163.com",
       addr: "地址：深圳市龙岗区平湖镇亚钢 1 号 2 栋 301"
     },
     footer: {
@@ -187,7 +187,7 @@ const I18N = {
       company: "Company: Shenzhen Kecai Industrial Co., Ltd.",
       person: "Contact: Huang Kecai",
       phoneLabel: "Tel: +86 13926855116",
-      emailLabel: "Email: 562718308@qq.com",
+      emailLabel: "Email: atf520@163.com",
       addr: "Address: Room 301, Building 2, No.1 Yagang, Pinghu, Longgang District, Shenzhen, China"
     },
     footer: {
@@ -283,7 +283,7 @@ const I18N = {
       company: "Empresa: Shenzhen Kecai Industrial Co., Ltd.",
       person: "Contacto: Huang Kecai",
       phoneLabel: "Tel: +86 13926855116",
-      emailLabel: "Correo: 562718308@qq.com",
+      emailLabel: "Correo: atf520@163.com",
       addr: "Dirección: Sala 301, Edificio 2, No.1 Yagang, Pinghu, Distrito Longgang, Shenzhen, China"
     },
     footer: {
@@ -379,7 +379,7 @@ const I18N = {
       company: "Компания: Shenzhen Kecai Industrial Co., Ltd.",
       person: "Контактное лицо: Хуан Кэцай",
       phoneLabel: "Тел: +86 13926855116",
-      emailLabel: "Почта: 562718308@qq.com",
+      emailLabel: "Почта: atf520@163.com",
       addr: "Адрес: комната 301, корпус 2, №1 Яган, Пинху, район Лунган, Шэньчжэнь, Китай"
     },
     footer: {
@@ -475,7 +475,7 @@ const I18N = {
       company: "الشركة: Shenzhen Kecai Industrial Co., Ltd.",
       person: "جهة الاتصال: هوانغ كِكائي",
       phoneLabel: "هاتف: 13926855116 86+",
-      emailLabel: "بريد إلكتروني: 562718308@qq.com",
+      emailLabel: "بريد إلكتروني: atf520@163.com",
       addr: "العنوان: غرفة 301، مبنى 2، رقم 1 ياغانغ، بينغهو، حي لونغغانغ، شنتشن، الصين"
     },
     footer: {
